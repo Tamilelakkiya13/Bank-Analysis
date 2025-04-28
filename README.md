@@ -17,5 +17,4 @@ This dashboard helps the bank to understand customer deposit patterns based on d
 - Data Cleaning
 - Data Visualization
 
-## Created By
-Tamil (Tamilelakkiya13)
+
